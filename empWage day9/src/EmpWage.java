@@ -39,6 +39,7 @@ public class EmpWage {
 	}
 
 	public static void main(String[] args) {
+		System.out.println("Welcome to employee wage computation");
 		computeWage("Dmart", 120, 20, 170);
 		computeWage("Google", 140, 21, 160);
 		computeWage("Apple", 150, 18, 180);
